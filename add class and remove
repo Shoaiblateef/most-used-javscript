@@ -1,0 +1,23 @@
+
+// const piinputElement = document.querySelector('.pi-search__input');
+// const pisearchElement = document.querySelector('.pi-section-search-field');
+
+
+// piinputElement.classList.add('pi-input-not_focus');
+// pisearchElement.classList.add('pi-input-not_focus');
+
+
+// piinputElement.addEventListener('focus', function() {
+
+//     this.classList.remove('pi-input-not_focus');
+
+//     pisearchElement.classList.remove('pi-input-not_focus');
+// });
+
+
+// piinputElement.addEventListener('blur', function() {
+
+//     this.classList.add('pi-input-not_focus');
+
+//     pisearchElement.classList.add('pi-input-not_focus');
+// });
